@@ -12,6 +12,10 @@ output:
     - Why are they important?
     - Where/when did they work?
 
+# John Nelder
+
+# Robert Wedderburn
+
 # What is a GLM?
 
 # How does one fit a GLM?
