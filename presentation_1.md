@@ -37,6 +37,11 @@ output:
 - Using Newton's method to find the MLE
     - Equivalent to an iterative weighted least squares.
     - Starting method: set $\mu=z$ to obtain initial weights and coefficients (may need slight modification, e.g. binomial).
+- Analysis of deviance
+    - The models should be ordered (e.g. main effect -> interaction terms).
+    - Deviance measures the distance from the complete model, chi-squared distribution.
+    - Stop fitting when residual df. * scale factor = deviance of current model (*).
+
 
 # What did you find interesting about the article?
 - Tried to put myself in the shoes of people at this time period
