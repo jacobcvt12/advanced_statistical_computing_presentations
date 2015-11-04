@@ -42,6 +42,9 @@ output:
     - The models should be ordered (e.g. main effect -> interaction terms).
     - Deviance measures the distance from the complete model, chi-squared distribution.
     - Stop fitting when residual df. * scale factor = deviance of current model (*).
+
+# How does one fit a GLM?
+
 - Examples
     - Poisson distribution: model contingency tables (multiplicative effect, qualitative x's).
     - Binomial distribution: probit analysis.
