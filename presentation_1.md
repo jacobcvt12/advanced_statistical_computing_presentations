@@ -9,8 +9,9 @@ output:
 ---
 
 # Who are Nelder and Wedderburn?
-    - Why are they important?
-    - Where/when did they work?
+
+- Why are they important?
+- Where/when did they work?
 
 # John Nelder
 
