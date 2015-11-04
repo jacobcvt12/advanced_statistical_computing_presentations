@@ -41,7 +41,7 @@ output:
 - Analysis of deviance
     - The models should be ordered (e.g. main effect -> interaction terms).
     - Deviance measures the distance from the complete model, chi-squared distribution.
-    - Stop fitting when residual df. * scale factor = deviance of current model (*).
+    - Stop fitting when residual df. * scale factor = deviance of current model (\*).
 
 # How does one fit a GLM?
 
