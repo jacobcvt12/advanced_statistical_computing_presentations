@@ -36,3 +36,8 @@ output:
 # How does one fit a GLM?
 
 # What did you find interesting about the article?
+- Tried to put myself in the shoes of people at this time period
+- Before this GLM paper, it seems like linear models were the purview of statisticians only
+- not so easily implemented (computationally)
+- Now, these disparate linear models are grouped into one procedure
+- For better or worse anyone can use GLMs now to make inference about regression parameters
