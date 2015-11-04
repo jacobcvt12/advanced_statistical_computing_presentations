@@ -36,7 +36,8 @@ output:
 # How does one fit a GLM?
 - Using Newton's method to find the MLE
     - Equivalent to an iterative weighted least squares.
-    - Starting method: take as a first approximation $\mu=Y$.
+    - Starting method: set $\mu=z$ to obtain initial weights and coefficients (may need slight modification, e.g. binomial).
+-
 
 # What did you find interesting about the article?
 - Tried to put myself in the shoes of people at this time period
