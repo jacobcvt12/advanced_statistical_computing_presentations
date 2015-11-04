@@ -34,8 +34,8 @@ output:
     - In the paper, unifies normal, logistic, poisson and gamma
 
 # How does one fit a GLM?
-
-## Solving the maximum likelihood equation is equivalent to an iterative weighted least squares.
+- Using Newton's method to find the MLE
+    - Equivalent to an iterative weighted least squares.
 
 # What did you find interesting about the article?
 - Tried to put myself in the shoes of people at this time period
