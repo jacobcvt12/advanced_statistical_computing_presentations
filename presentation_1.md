@@ -41,7 +41,10 @@ output:
     - The models should be ordered (e.g. main effect -> interaction terms).
     - Deviance measures the distance from the complete model, chi-squared distribution.
     - Stop fitting when residual df. * scale factor = deviance of current model (*).
-
+- Examples
+    - Poisson distribution: model contingency tables (multiplicative effect, qualitative x's).
+    - Binomial distribution: probit analysis.
+    - Gamma distribution: analysis of variance in balanced incomplete block design.
 
 # What did you find interesting about the article?
 - Tried to put myself in the shoes of people at this time period
@@ -49,7 +52,7 @@ output:
 - not so easily implemented (computationally)
 - Now, these disparate linear models are grouped into one procedure
 - For better or worse anyone can use GLMs now to make inference about regression parameters
-- * 
+- 
 - Write Newton-Rhapson as iterative weighted least squares.
 - The use of sufficient statistics in GLM fitting.
 - Use deviance to assess model fitting (which reminds me of likelihood ratio test).
