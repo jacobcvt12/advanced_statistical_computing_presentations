@@ -30,6 +30,8 @@ output:
 
 # What is a GLM?
 - Generalizes several different "linear models"
+- Uses a link function to "link" linear model to a response
+    - In the paper, unifies normal, logistic, poisson and gamma
 
 # How does one fit a GLM?
 
