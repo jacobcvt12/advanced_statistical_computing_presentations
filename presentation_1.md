@@ -44,7 +44,7 @@ output:
 - Examples
     - Poisson distribution: model contingency tables (multiplicative effect, qualitative x's).
     - Binomial distribution: probit analysis.
-    - Gamma distribution: analysis of variance in balanced incomplete block design.
+    - Gamma distribution: estimation of variance components.
 
 # What did you find interesting about the article?
 - Tried to put myself in the shoes of people at this time period
