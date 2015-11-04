@@ -14,8 +14,8 @@ output:
 
 # John Nelder
 
-# Robert Wedderburn
-![wedderburn](img/wedderburn.png)
+# 
+![More than one Wedderburn...](img/wedderburn.png)
 
 # What is a GLM?
 
