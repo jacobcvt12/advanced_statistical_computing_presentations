@@ -14,11 +14,22 @@ output:
 - Where/when did they work?
 
 # John Nelder
+- 1924 - 2010
+- Graduated from Cambridge
+- Worked at the prestigious National Vegetable Research Station
+- Visiting Professor at Imperial College London from 1972 - 1984
+- Developed statistical software such as GLIM
 
 # 
 ![More than one Wedderburn...](img/wedderburn.png)
 
+# Robert Wedderburn
+- 1947 - 1975 (died at 28)
+- Also graduated from Cambridge
+- Worked at  Rothamsted Experimental Station where he developed GLMs with Nelder.
+
 # What is a GLM?
+- Generalizes several different "linear models"
 
 # How does one fit a GLM?
 
