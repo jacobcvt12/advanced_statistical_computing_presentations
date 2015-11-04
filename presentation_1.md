@@ -52,7 +52,7 @@ output:
 - not so easily implemented (computationally)
 - Now, these disparate linear models are grouped into one procedure
 - For better or worse anyone can use GLMs now to make inference about regression parameters
-- 
+
 - Write Newton-Rhapson as iterative weighted least squares.
 - The use of sufficient statistics in GLM fitting.
 - Use deviance to assess model fitting (which reminds me of likelihood ratio test).
